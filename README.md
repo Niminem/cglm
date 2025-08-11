@@ -16,7 +16,7 @@ In this `cglm` wrapper we use the [Array API](https://cglm.readthedocs.io/en/lat
 
 `git clone https://github.com/Niminem/cglm`
 
-or, when available on [Nimble](https://nimble.directory/):
+or, when available on [Nimble](https://github.com/nim-lang/packages/pull/3102):
 
 `nimble install cglm`
 
